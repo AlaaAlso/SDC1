@@ -1,0 +1,60 @@
+* {
+  background-color: #fdf7e3;
+  font-family: "Quattrocento", serif;
+  color: #044f92;
+}
+.body {
+  margin: 0;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.parstyle {
+  font-size: 70px;
+}
+.joinstyle {
+  margin: 0 40px;
+}
+.jobstyle {
+  text-align: center;
+  font-size: 70px;
+}
+.card {
+  width: 70%;
+  border-radius: 20px;
+}
+.row-cols-1 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.card-body {
+  text-align: center;
+}
+.btn {
+  background-color: #7ecfef;
+  border-radius: 20px;
+  margin: 10px 0;
+}
+.formstyle {
+  margin: 0 550px;
+  /* margin: 20px 400px 0 500px;    */
+  padding: 40px;
+  width: 30%;
+}
+.form-label {
+  color: #6c3c84;
+}
+.buttonstyle {
+  margin: 15px 150px;
+}
+.secthreestyle {
+  font-size: x-large;
+  padding: 60px 100px 0 100px;
+}
+a:link {
+  text-decoration: none;
+}
